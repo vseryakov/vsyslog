@@ -1,0 +1,8 @@
+# Binaries for programs and plugins
+main
+syslog
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
