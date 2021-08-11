@@ -1,4 +1,4 @@
-## Simple syslog module for V, it uses the system logger on Unix systems
+## Simple syslog module for V(vlang), it uses the system logger on Unix systems
 
 ```v
 module main
